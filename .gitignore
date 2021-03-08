@@ -1,2 +1,5 @@
+.*.sw*
+
+__pycache__/
 venv/
 BUILD/
